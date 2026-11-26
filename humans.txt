@@ -1,0 +1,6 @@
+/* TEAM */
+Founder and baker: Priya Shell
+Site: The Bake Basket, Madhavaram, Chennai
+
+/* SITE */
+Static HTML, CSS and a little JavaScript. Fonts: Caveat and Outfit (SIL Open Font License).

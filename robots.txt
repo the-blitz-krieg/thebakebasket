@@ -1,0 +1,340 @@
+# robots.txt for https://thebakebasket.com
+# Search engines and AI answer engines are welcome. Internet Archive and Wayback crawlers are not.
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: IA_Archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: ia_archiver/1.6
+Disallow: /
+
+User-agent: ia_archiver/8.0
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Archive.org_bot
+Disallow: /
+
+User-agent: ARCHIVE.ORG_BOT
+Disallow: /
+
+User-agent: archive.org_bot/3.3.0
+Disallow: /
+
+User-agent: archive.org
+Disallow: /
+
+User-agent: Archive.org
+Disallow: /
+
+User-agent: Wayback Machine Live Record
+Disallow: /
+
+User-agent: wayback machine live record
+Disallow: /
+
+User-agent: Wayback
+Disallow: /
+
+User-agent: wayback
+Disallow: /
+
+User-agent: WaybackMachine
+Disallow: /
+
+User-agent: waybackmachine
+Disallow: /
+
+User-agent: special_archiver
+Disallow: /
+
+User-agent: Special_Archiver
+Disallow: /
+
+User-agent: Heritrix
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: HERITRIX
+Disallow: /
+
+User-agent: heritrix/3.4.0
+Disallow: /
+
+User-agent: heritrix/1.14
+Disallow: /
+
+User-agent: internetarchive
+Disallow: /
+
+User-agent: InternetArchive
+Disallow: /
+
+User-agent: archive-it
+Disallow: /
+
+User-agent: Archive-It
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot-Video
+Allow: /
+Disallow: /404.html
+
+User-agent: Storebot-Google
+Allow: /
+Disallow: /404.html
+
+User-agent: Google-InspectionTool
+Allow: /
+Disallow: /404.html
+
+User-agent: GoogleOther
+Allow: /
+Disallow: /404.html
+
+User-agent: GoogleOther-Image
+Allow: /
+Disallow: /404.html
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /404.html
+
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /404.html
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /404.html
+
+User-agent: Bingbot
+Allow: /
+Disallow: /404.html
+
+User-agent: BingPreview
+Allow: /
+Disallow: /404.html
+
+User-agent: msnbot
+Allow: /
+Disallow: /404.html
+
+User-agent: MicrosoftPreview
+Allow: /
+Disallow: /404.html
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /404.html
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /404.html
+
+User-agent: YandexBot
+Allow: /
+Disallow: /404.html
+
+User-agent: YandexImages
+Allow: /
+Disallow: /404.html
+
+User-agent: YandexMobileBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /404.html
+
+User-agent: Baiduspider-image
+Allow: /
+Disallow: /404.html
+
+User-agent: Baiduspider-mobile
+Allow: /
+Disallow: /404.html
+
+User-agent: Slurp
+Allow: /
+Disallow: /404.html
+
+User-agent: Applebot
+Allow: /
+Disallow: /404.html
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /404.html
+
+User-agent: GPTBot
+Allow: /
+Disallow: /404.html
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /404.html
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /404.html
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Claude-User
+Allow: /
+Disallow: /404.html
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /404.html
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /404.html
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /404.html
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /404.html
+
+User-agent: meta-externalfetcher
+Allow: /
+Disallow: /404.html
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /404.html
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /404.html
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /404.html
+
+User-agent: Bytespider
+Allow: /
+Disallow: /404.html
+
+User-agent: CCBot
+Allow: /
+Disallow: /404.html
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /404.html
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /404.html
+
+User-agent: cohere-training-data-crawler
+Allow: /
+Disallow: /404.html
+
+User-agent: YouBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Diffbot
+Allow: /
+Disallow: /404.html
+
+User-agent: AI2Bot
+Allow: /
+Disallow: /404.html
+
+User-agent: Ai2Bot-Dolma
+Allow: /
+Disallow: /404.html
+
+User-agent: PetalBot
+Allow: /
+Disallow: /404.html
+
+User-agent: SeznamBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Yeti
+Allow: /
+Disallow: /404.html
+
+User-agent: Sogou web spider
+Allow: /
+Disallow: /404.html
+
+User-agent: Qwantbot
+Allow: /
+Disallow: /404.html
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /404.html
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Pinterestbot
+Allow: /
+Disallow: /404.html
+
+User-agent: WhatsApp
+Allow: /
+Disallow: /404.html
+
+User-agent: TelegramBot
+Allow: /
+Disallow: /404.html
+
+User-agent: Discordbot
+Allow: /
+Disallow: /404.html
+
+User-agent: Slackbot
+Allow: /
+Disallow: /404.html
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://thebakebasket.com/sitemap.xml
