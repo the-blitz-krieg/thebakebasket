@@ -2,6 +2,10 @@
 
 Static website for The Bake Basket by Priya, a home bakery in Madhavaram, Chennai. Plain HTML, one CSS file and one small script: no CMS, no database, no login page, nothing on the server to break into.
 
+## Staging first
+
+The site currently runs at **https://staging.thebakebasket.com** for review. The staging build (`python3 sitebuild.py staging`) is identical to production except that every page carries `noindex,nofollow`, `robots.txt` disallows all crawlers, and `CNAME` is `staging.thebakebasket.com`. Canonical URLs, Open Graph URLs, schema and the sitemap already point at `https://thebakebasket.com`, so going live is a rebuild with `python3 sitebuild.py prod`, a push, and a DNS change from the staging record to the apex records below.
+
 ## Deploy on GitHub Pages
 
 1. Create a repository (for example `thebakebasket.com`) and upload the contents of this folder to the root of the `main` branch. Keep the hidden files `.nojekyll` and `.well-known/`.
